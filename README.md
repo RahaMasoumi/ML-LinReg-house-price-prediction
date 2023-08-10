@@ -1,4 +1,5 @@
 # LinearRegression-house-price-prediction
+This is the first exercise that I have done during the course for "Data Science and Machine Learning Bootcamp" in Udemy. 
 In this code I have used Linear regression to predict the house price based on different features in "USA_Housing.csv" dataset
 in this dataset we have some information about a bunch of hoses in regions of the united states i is all in the data set USA_Housing.csv
 here are some colums of this dataset: 
